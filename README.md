@@ -23,5 +23,5 @@ The cron is a software utility, offered by Linux-like operating system which aut
 ## The SSH protocol :point_left:
 Uses encryption to secure the connection between a client and a server. All user authentication, commands, output, and file transfers are encrypted to protect against attacks in the network.
 
-### **THANK YOU :v:**
+### **THANK YOU** :v:
 ![Successful Completion Screenshot](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/new.png)
