@@ -3,3 +3,11 @@ Here is Walkthrough of Vulnhub Machine Funbox Boot2Root ! This is a reallife sze
 
 ### The arp command:
 ARP stands for Address Resolution Protocol, which is used to find the address of a network neighbor for a given IPv4 address.
+
+### nmap -sn :
+Gives a list of ip addresses with the host status
+
+### -[X] nmap -O :
+Identify the Operating System of a host
+
+
