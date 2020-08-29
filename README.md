@@ -7,7 +7,7 @@ ARP stands for Address Resolution Protocol, which is used to find the address of
 ### nmap -sn :
 Gives a list of ip addresses with the host status
 
-### -[X] nmap -O :
+-[X]nmap -O :
 Identify the Operating System of a host
 
 
