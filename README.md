@@ -1,9 +1,9 @@
 # FUNBOX VULNHUB WALKTHROUGH :collision:
 **Here is Walkthrough of Vulnhub Machine Funbox Boot2Root ! This is a real-life senario, but easy going. You have to enumerate and understand the senario to get the root-flag in round about 20min. :point_down:**
 
-*GIF goes here*
+![Machine_Funbox_Demo_GIF](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine_Funbox_GIF.gif)
 
-### :star2: **REFER TO THE [DOCS](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine%20_%20Funbox.docx) PROVIDED TO GET DETAILED INFO OR REFER THE DEMO [VIDEO](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine%20_%20Funbox.docx).**
+### :star2: **REFER TO THE [PDF](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine%20_%20Funbox.pdf) OR THE DEMO [VIDEO](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine_Funbox_Demo.mp4) PROVIDED TO GET DETAILED INFO.**
 
 ## The arp command :point_left:
 ARP stands for Address Resolution Protocol, which is used to find the address of a network neighbor for a given IPv4 address.
