@@ -3,7 +3,7 @@
 
 *GIF goes here*
 
-### **REFER TO THE [DOCS](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine%20_%20Funbox.docx) PROVIDED TO GET DETAILED INFO OR REFER THE DEMO [VIDEO](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine%20_%20Funbox.docx).**
+### ** :star2: REFER TO THE [DOCS](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine%20_%20Funbox.docx) PROVIDED TO GET DETAILED INFO OR REFER THE DEMO [VIDEO](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/Machine%20_%20Funbox.docx).**
 
 ## The arp command :point_left:
 ARP stands for Address Resolution Protocol, which is used to find the address of a network neighbor for a given IPv4 address.
@@ -23,6 +23,5 @@ The cron is a software utility, offered by Linux-like operating system which aut
 ## The SSH protocol :point_left:
 Uses encryption to secure the connection between a client and a server. All user authentication, commands, output, and file transfers are encrypted to protect against attacks in the network.
 
-![Successful Completion Screenshot](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/new.png)
-
 ### **THANK YOU :v:**
+![Successful Completion Screenshot](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/new.png)
